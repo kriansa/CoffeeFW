@@ -1,0 +1,38 @@
+Falta:
+- Documentação HTML
+- Docblocks de classes
+- Docblocks nos configs
+- Checar padrões de código (IFs)
+
+- Helpers para View
+	- UI stuff
+
+- Remover Exceptions estranhos - Usar Apenas \Exception
+- Organizar estrutura para comportar módulos
+- Organizar estrutura para comportar packages
+
+- DB Cache
+- Classe Lang
+- Classe Upload
+- Classe MongoDB
+- Classe FTP
+- Classe Agent
+- Classe Auth com Bruteforce
+
+- Classe Pagination
+- Classe Validation
+- Classe Model/ORM
+- Classe Form
+
+
+x Base URL
+x Classe Num
+x Classe Format
+x Driver Database para Cache
+x Classe de Assets com Less compiler
+x Classe Crypt
+x Classe Date
+x Classe Inflector
+x Classe Session
+x Classe DB
+x Classe Imagine

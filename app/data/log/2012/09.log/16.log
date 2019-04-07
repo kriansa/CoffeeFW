@@ -1,0 +1,678 @@
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:12:06 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\data\cache\classes.cache @ line 4013
+Message: exception 'Exception' with message 'DateTimeZone::__construct(): Unknown or bad timezone ()' in D:\Dropbox\CoffeeFW\app\data\cache\classes.cache:4013
+Stack trace:
+#0 D:\Dropbox\CoffeeFW\app\data\cache\classes.cache(4013): DateTimeZone->__construct('')
+#1 D:\Dropbox\CoffeeFW\app\data\cache\classes.cache(3898): Core\Date::_getDateTimeZone(NULL)
+#2 D:\Dropbox\CoffeeFW\app\classes\App\Controller\Index.php(84): Core\Date->__construct()
+#3 D:\Dropbox\CoffeeFW\app\data\cache\classes.cache(1064): App\Controller\Index->indexAction(Array)
+#4 D:\Dropbox\CoffeeFW\app\public\index.php(38): Core\Request->dispatch(Object(Core\Route))
+#5 {main}
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:13:09 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\data\cache\classes.cache @ line 4013
+Message: exception 'Exception' with message 'DateTimeZone::__construct(): Unknown or bad timezone ()' in D:\Dropbox\CoffeeFW\app\data\cache\classes.cache:4013
+Stack trace:
+#0 D:\Dropbox\CoffeeFW\app\data\cache\classes.cache(4013): DateTimeZone->__construct('')
+#1 D:\Dropbox\CoffeeFW\app\data\cache\classes.cache(3898): Core\Date::_getDateTimeZone(NULL)
+#2 D:\Dropbox\CoffeeFW\app\classes\App\Controller\Index.php(84): Core\Date->__construct()
+#3 D:\Dropbox\CoffeeFW\app\data\cache\classes.cache(1064): App\Controller\Index->indexAction(Array)
+#4 D:\Dropbox\CoffeeFW\app\public\index.php(38): Core\Request->dispatch(Object(Core\Route))
+#5 {main}
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:13:39 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\data\cache\classes.cache @ line 4013
+Message: Call to undefined function Core\dmp()
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:13:44 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\data\cache\classes.cache @ line 4014
+Message: exception 'Exception' with message 'DateTimeZone::__construct(): Unknown or bad timezone ()' in D:\Dropbox\CoffeeFW\app\data\cache\classes.cache:4014
+Stack trace:
+#0 D:\Dropbox\CoffeeFW\app\data\cache\classes.cache(4014): DateTimeZone->__construct('')
+#1 D:\Dropbox\CoffeeFW\app\data\cache\classes.cache(3898): Core\Date::_getDateTimeZone(NULL)
+#2 D:\Dropbox\CoffeeFW\app\classes\App\Controller\Index.php(84): Core\Date->__construct()
+#3 D:\Dropbox\CoffeeFW\app\data\cache\classes.cache(1064): App\Controller\Index->indexAction(Array)
+#4 D:\Dropbox\CoffeeFW\app\public\index.php(38): Core\Request->dispatch(Object(Core\Route))
+#5 {main}
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:09 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\LoaderException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:09 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\ConfigException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:09 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\RequestException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:09 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\HttpNotFoundException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:09 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\SessionException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:09 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\CacheException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:09 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\CacheNotFoundException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:09 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\DateException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:10 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\LoaderException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:10 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\ConfigException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:10 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\RequestException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:10 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\HttpNotFoundException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:10 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\SessionException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:10 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\CacheException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:10 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\CacheNotFoundException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:10 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\DateException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:10 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\LoaderException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:10 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\ConfigException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:10 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\RequestException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:10 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\HttpNotFoundException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:10 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\SessionException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:10 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\CacheException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:10 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\CacheNotFoundException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:10 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\DateException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:40 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\LoaderException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:40 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\ConfigException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:40 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\RequestException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:40 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\HttpNotFoundException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:40 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\SessionException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:40 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\CacheException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:40 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\CacheNotFoundException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:40 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\DateException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:41 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\LoaderException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:41 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\ConfigException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:41 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\RequestException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:41 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\HttpNotFoundException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:41 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\SessionException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:41 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\CacheException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:41 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\CacheNotFoundException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:41 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\DateException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:41 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\LoaderException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:41 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\ConfigException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:41 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\RequestException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:41 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\HttpNotFoundException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:41 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\SessionException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:41 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\CacheException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:41 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\CacheNotFoundException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:41 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\DateException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:42 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\LoaderException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:42 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\ConfigException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:42 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\RequestException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:42 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\HttpNotFoundException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:42 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\SessionException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:42 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\CacheException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:42 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\CacheNotFoundException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:42 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\DateException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:42 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\LoaderException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:42 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\ConfigException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:42 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\RequestException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:42 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\HttpNotFoundException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:42 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\SessionException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:42 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\CacheException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:42 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\CacheNotFoundException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:42 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\DateException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:43 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\LoaderException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:43 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\ConfigException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:43 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\RequestException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:43 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\HttpNotFoundException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:43 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\SessionException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:43 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\CacheException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:43 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\CacheNotFoundException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:43 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\DateException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:43 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\LoaderException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:43 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\ConfigException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:43 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\RequestException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:43 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\HttpNotFoundException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:43 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\SessionException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:43 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\CacheException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:43 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\CacheNotFoundException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:43 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\DateException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:43 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\LoaderException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:43 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\ConfigException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:43 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\RequestException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:43 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\HttpNotFoundException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:43 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\SessionException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:43 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\CacheException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:43 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\CacheNotFoundException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:43 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\DateException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:44 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\LoaderException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:44 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\ConfigException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:44 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\RequestException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:44 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\HttpNotFoundException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:44 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\SessionException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:44 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\CacheException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:44 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\CacheNotFoundException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:44 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\DateException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:44 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\LoaderException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:44 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\ConfigException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:44 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\RequestException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:44 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\HttpNotFoundException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:44 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\SessionException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:45 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\CacheException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:45 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\CacheNotFoundException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 12:35:45 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 48
+Message: file_get_contents(Core\DateException.php): failed to open stream: No such file or directory
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 03:56:56 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 43
+Message: Class 'File' not found
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 03:56:56 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 43
+Message: Class 'File' not found
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 03:56:57 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 43
+Message: Class 'File' not found
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 03:56:57 AM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 43
+Message: Class 'File' not found
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 04:07:19 AM -03:00
+File: D:\Dropbox\CoffeeFW\core\classes\Core\View.php @ line 125
+Message: exception 'Core\ViewException' with message 'View base dir "D:\Dropbox\CoffeeFW\app\Views\App\" not found!' in D:\Dropbox\CoffeeFW\core\classes\Core\View.php:125
+Stack trace:
+#0 D:\Dropbox\CoffeeFW\core\classes\Core\Controller\Complete.php(184): Core\View->setBaseDir('D:\Dropbox\Coff...')
+#1 D:\Dropbox\CoffeeFW\core\classes\Core\Request.php(159): Core\Controller\Complete->after(NULL, 'error404Action')
+#2 D:\Dropbox\CoffeeFW\app\public\index.php(33): Core\Request->dispatch(Object(Core\Route))
+#3 {main}
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 01:23:00 PM -03:00
+File: D:\Dropbox\CoffeeFW\app\public\index.php @ line 52
+Message: Class 'File' not found
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 07:34:38 PM -03:00
+File: D:\Dropbox\CoffeeFW\core\classes\Core\Loader.php @ line 142
+Message: include(): Filename cannot be empty
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 07:34:38 PM -03:00
+File: D:\Dropbox\CoffeeFW\core\classes\Core\Loader.php @ line 142
+Message: include(): Failed opening '' for inclusion (include_path='D:\Dropbox\CoffeeFW\app\classes;D:\Dropbox\CoffeeFW\packages\less\classes;1;D:\Dropbox\CoffeeFW\core\classes;.;D:\xampplite\ZendFramework\library')
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 07:34:38 PM -03:00
+File: D:\Dropbox\CoffeeFW\core\classes\Core\Loader.php @ line 142
+Message: include(): Filename cannot be empty
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 07:34:38 PM -03:00
+File: D:\Dropbox\CoffeeFW\core\classes\Core\Loader.php @ line 142
+Message: include(): Failed opening '' for inclusion (include_path='D:\Dropbox\CoffeeFW\app\classes;D:\Dropbox\CoffeeFW\packages\less\classes;1;D:\Dropbox\CoffeeFW\core\classes;.;D:\xampplite\ZendFramework\library')
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 07:38:20 PM -03:00
+File: D:\Dropbox\CoffeeFW\core\classes\Core\Loader.php @ line 142
+Message: include(): Filename cannot be empty
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 07:38:20 PM -03:00
+File: D:\Dropbox\CoffeeFW\core\classes\Core\Loader.php @ line 142
+Message: include(): Failed opening '' for inclusion (include_path='D:\Dropbox\CoffeeFW\app\classes;D:\Dropbox\CoffeeFW\packages\less\classes;1;D:\Dropbox\CoffeeFW\core\classes;.;D:\xampplite\ZendFramework\library')
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 07:39:12 PM -03:00
+File: D:\Dropbox\CoffeeFW\core\classes\Core\Loader.php @ line 142
+Message: include(): Filename cannot be empty
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 07:39:12 PM -03:00
+File: D:\Dropbox\CoffeeFW\core\classes\Core\Loader.php @ line 142
+Message: include(): Failed opening '' for inclusion (include_path='D:\Dropbox\CoffeeFW\app\classes;D:\Dropbox\CoffeeFW\packages\less\classes;1;D:\Dropbox\CoffeeFW\core\classes;.;D:\xampplite\ZendFramework\library')
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 07:39:12 PM -03:00
+File: D:\Dropbox\CoffeeFW\core\classes\Core\View.php @ line 125
+Message: exception 'Core\ViewException' with message 'View base dir "D:\Dropbox\CoffeeFW\app\Views\App\" not found!' in D:\Dropbox\CoffeeFW\core\classes\Core\View.php:125
+Stack trace:
+#0 D:\Dropbox\CoffeeFW\core\classes\Core\Controller\Complete.php(184): Core\View->setBaseDir('D:\Dropbox\Coff...')
+#1 D:\Dropbox\CoffeeFW\core\classes\Core\Request.php(159): Core\Controller\Complete->after(NULL, 'error404Action')
+#2 D:\Dropbox\CoffeeFW\app\public\index.php(40): Core\Request->dispatch(Object(Core\Route))
+#3 {main}
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 07:39:21 PM -03:00
+File: D:\Dropbox\CoffeeFW\core\classes\Core\Loader.php @ line 142
+Message: include(): Filename cannot be empty
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 07:39:21 PM -03:00
+File: D:\Dropbox\CoffeeFW\core\classes\Core\Loader.php @ line 142
+Message: include(): Failed opening '' for inclusion (include_path='D:\Dropbox\CoffeeFW\app\classes;D:\Dropbox\CoffeeFW\packages\less\classes;1;D:\Dropbox\CoffeeFW\core\classes;.;D:\xampplite\ZendFramework\library')
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 07:39:21 PM -03:00
+File: D:\Dropbox\CoffeeFW\core\classes\Core\View.php @ line 125
+Message: exception 'Core\ViewException' with message 'View base dir "D:\Dropbox\CoffeeFW\app\Views\App\" not found!' in D:\Dropbox\CoffeeFW\core\classes\Core\View.php:125
+Stack trace:
+#0 D:\Dropbox\CoffeeFW\core\classes\Core\Controller\Complete.php(184): Core\View->setBaseDir('D:\Dropbox\Coff...')
+#1 D:\Dropbox\CoffeeFW\core\classes\Core\Request.php(159): Core\Controller\Complete->after(NULL, 'error404Action')
+#2 D:\Dropbox\CoffeeFW\app\public\index.php(40): Core\Request->dispatch(Object(Core\Route))
+#3 {main}
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 08:03:21 PM -03:00
+File: D:\Dropbox\CoffeeFW\core\classes\Core\Loader.php @ line 142
+Message: include(): Filename cannot be empty
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 08:03:21 PM -03:00
+File: D:\Dropbox\CoffeeFW\core\classes\Core\Loader.php @ line 142
+Message: include(): Failed opening '' for inclusion (include_path='D:\Dropbox\CoffeeFW\app\classes;D:\Dropbox\CoffeeFW\packages\less\classes;1;D:\Dropbox\CoffeeFW\core\classes;.;D:\xampplite\ZendFramework\library')
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 08:03:21 PM -03:00
+File: D:\Dropbox\CoffeeFW\core\classes\Core\View.php @ line 125
+Message: exception 'Core\ViewException' with message 'View base dir "D:\Dropbox\CoffeeFW\app\Views\App\" not found!' in D:\Dropbox\CoffeeFW\core\classes\Core\View.php:125
+Stack trace:
+#0 D:\Dropbox\CoffeeFW\core\classes\Core\Controller\Complete.php(184): Core\View->setBaseDir('D:\Dropbox\Coff...')
+#1 D:\Dropbox\CoffeeFW\core\classes\Core\Request.php(159): Core\Controller\Complete->after(NULL, 'error404Action')
+#2 D:\Dropbox\CoffeeFW\app\public\index.php(40): Core\Request->dispatch(Object(Core\Route))
+#3 {main}
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 08:05:13 PM -03:00
+File: D:\Dropbox\CoffeeFW\core\classes\Core\Loader.php @ line 142
+Message: include(): Filename cannot be empty
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 08:05:13 PM -03:00
+File: D:\Dropbox\CoffeeFW\core\classes\Core\Loader.php @ line 142
+Message: include(): Failed opening '' for inclusion (include_path='D:\Dropbox\CoffeeFW\app\classes;D:\Dropbox\CoffeeFW\packages\less\classes;1;D:\Dropbox\CoffeeFW\core\classes;.;D:\xampplite\ZendFramework\library')
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 08:05:17 PM -03:00
+File: D:\Dropbox\CoffeeFW\core\classes\Core\Loader.php @ line 142
+Message: include(): Filename cannot be empty
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 08:05:17 PM -03:00
+File: D:\Dropbox\CoffeeFW\core\classes\Core\Loader.php @ line 142
+Message: include(): Failed opening '' for inclusion (include_path='D:\Dropbox\CoffeeFW\app\classes;D:\Dropbox\CoffeeFW\packages\less\classes;1;D:\Dropbox\CoffeeFW\core\classes;.;D:\xampplite\ZendFramework\library')
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 08:05:25 PM -03:00
+File: D:\Dropbox\CoffeeFW\core\classes\Core\Loader.php @ line 142
+Message: include(): Filename cannot be empty
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 08:05:25 PM -03:00
+File: D:\Dropbox\CoffeeFW\core\classes\Core\Loader.php @ line 142
+Message: include(): Failed opening '' for inclusion (include_path='D:\Dropbox\CoffeeFW\app\classes;D:\Dropbox\CoffeeFW\packages\less\classes;1;D:\Dropbox\CoffeeFW\core\classes;.;D:\xampplite\ZendFramework\library')
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 08:05:27 PM -03:00
+File: D:\Dropbox\CoffeeFW\core\classes\Core\Loader.php @ line 142
+Message: include(): Filename cannot be empty
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 08:05:27 PM -03:00
+File: D:\Dropbox\CoffeeFW\core\classes\Core\Loader.php @ line 142
+Message: include(): Failed opening '' for inclusion (include_path='D:\Dropbox\CoffeeFW\app\classes;D:\Dropbox\CoffeeFW\packages\less\classes;1;D:\Dropbox\CoffeeFW\core\classes;.;D:\xampplite\ZendFramework\library')
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 08:05:51 PM -03:00
+File: D:\Dropbox\CoffeeFW\core\classes\Core\Loader.php @ line 142
+Message: include(): Filename cannot be empty
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 08:05:51 PM -03:00
+File: D:\Dropbox\CoffeeFW\core\classes\Core\Loader.php @ line 142
+Message: include(): Failed opening '' for inclusion (include_path='D:\Dropbox\CoffeeFW\app\classes;D:\Dropbox\CoffeeFW\packages\less\classes;1;D:\Dropbox\CoffeeFW\core\classes;.;D:\xampplite\ZendFramework\library')
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 08:06:07 PM -03:00
+File: D:\Dropbox\CoffeeFW\core\classes\Core\Loader.php @ line 142
+Message: include(): Filename cannot be empty
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 08:06:07 PM -03:00
+File: D:\Dropbox\CoffeeFW\core\classes\Core\Loader.php @ line 142
+Message: include(): Failed opening '' for inclusion (include_path='D:\Dropbox\CoffeeFW\app\classes;D:\Dropbox\CoffeeFW\packages\less\classes;1;D:\Dropbox\CoffeeFW\core\classes;.;D:\xampplite\ZendFramework\library')
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 08:07:17 PM -03:00
+File: D:\Dropbox\CoffeeFW\core\classes\Core\Loader.php @ line 142
+Message: include(): Filename cannot be empty
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 08:07:17 PM -03:00
+File: D:\Dropbox\CoffeeFW\core\classes\Core\Loader.php @ line 142
+Message: include(): Failed opening '' for inclusion (include_path='D:\Dropbox\CoffeeFW\app\classes;D:\Dropbox\CoffeeFW\packages\less\classes;1;D:\Dropbox\CoffeeFW\core\classes;.;D:\xampplite\ZendFramework\library')
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 08:15:21 PM -03:00
+File: D:\Dropbox\CoffeeFW\core\classes\Core\Loader.php @ line 142
+Message: include(): Filename cannot be empty
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 08:15:21 PM -03:00
+File: D:\Dropbox\CoffeeFW\core\classes\Core\Loader.php @ line 142
+Message: include(): Failed opening '' for inclusion (include_path='D:\Dropbox\CoffeeFW\app\classes;D:\Dropbox\CoffeeFW\packages\less\classes;1;D:\Dropbox\CoffeeFW\core\classes;.;D:\xampplite\ZendFramework\library')
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 08:15:21 PM -03:00
+File: D:\Dropbox\CoffeeFW\core\classes\Core\View.php @ line 125
+Message: exception 'Core\ViewException' with message 'View base dir "D:\Dropbox\CoffeeFW\app\Views\App\" not found!' in D:\Dropbox\CoffeeFW\core\classes\Core\View.php:125
+Stack trace:
+#0 D:\Dropbox\CoffeeFW\core\classes\Core\Controller\Complete.php(184): Core\View->setBaseDir('D:\Dropbox\Coff...')
+#1 D:\Dropbox\CoffeeFW\core\classes\Core\Request.php(159): Core\Controller\Complete->after(NULL, 'error404Action')
+#2 D:\Dropbox\CoffeeFW\app\public\index.php(40): Core\Request->dispatch(Object(Core\Route))
+#3 {main}
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 08:15:24 PM -03:00
+File: D:\Dropbox\CoffeeFW\core\classes\Core\Loader.php @ line 142
+Message: include(): Filename cannot be empty
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 08:15:24 PM -03:00
+File: D:\Dropbox\CoffeeFW\core\classes\Core\Loader.php @ line 142
+Message: include(): Failed opening '' for inclusion (include_path='D:\Dropbox\CoffeeFW\app\classes;D:\Dropbox\CoffeeFW\packages\less\classes;1;D:\Dropbox\CoffeeFW\core\classes;.;D:\xampplite\ZendFramework\library')
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 08:15:24 PM -03:00
+File: D:\Dropbox\CoffeeFW\core\classes\Core\View.php @ line 125
+Message: exception 'Core\ViewException' with message 'View base dir "D:\Dropbox\CoffeeFW\app\Views\App\" not found!' in D:\Dropbox\CoffeeFW\core\classes\Core\View.php:125
+Stack trace:
+#0 D:\Dropbox\CoffeeFW\core\classes\Core\Controller\Complete.php(184): Core\View->setBaseDir('D:\Dropbox\Coff...')
+#1 D:\Dropbox\CoffeeFW\core\classes\Core\Request.php(159): Core\Controller\Complete->after(NULL, 'error404Action')
+#2 D:\Dropbox\CoffeeFW\app\public\index.php(40): Core\Request->dispatch(Object(Core\Route))
+#3 {main}
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 08:17:11 PM -03:00
+File: D:\Dropbox\CoffeeFW\core\classes\Core\View.php @ line 125
+Message: exception 'Core\ViewException' with message 'View base dir "D:\Dropbox\CoffeeFW\app\Views\App\" not found!' in D:\Dropbox\CoffeeFW\core\classes\Core\View.php:125
+Stack trace:
+#0 D:\Dropbox\CoffeeFW\core\classes\Core\Controller\Complete.php(184): Core\View->setBaseDir('D:\Dropbox\Coff...')
+#1 D:\Dropbox\CoffeeFW\core\classes\Core\Request.php(159): Core\Controller\Complete->after(NULL, 'error404Action')
+#2 D:\Dropbox\CoffeeFW\app\public\index.php(40): Core\Request->dispatch(Object(Core\Route))
+#3 {main}
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 08:17:21 PM -03:00
+File: D:\Dropbox\CoffeeFW\core\classes\Core\View.php @ line 125
+Message: exception 'Core\ViewException' with message 'View base dir "D:\Dropbox\CoffeeFW\app\Views\App\" not found!' in D:\Dropbox\CoffeeFW\core\classes\Core\View.php:125
+Stack trace:
+#0 D:\Dropbox\CoffeeFW\core\classes\Core\Controller\Complete.php(184): Core\View->setBaseDir('D:\Dropbox\Coff...')
+#1 D:\Dropbox\CoffeeFW\core\classes\Core\Request.php(159): Core\Controller\Complete->after(NULL, 'error404Action')
+#2 D:\Dropbox\CoffeeFW\app\public\index.php(40): Core\Request->dispatch(Object(Core\Route))
+#3 {main}
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 08:17:32 PM -03:00
+File: D:\Dropbox\CoffeeFW\core\classes\Core\View.php @ line 125
+Message: exception 'Core\ViewException' with message 'View base dir "D:\Dropbox\CoffeeFW\app\Views\App\" not found!' in D:\Dropbox\CoffeeFW\core\classes\Core\View.php:125
+Stack trace:
+#0 D:\Dropbox\CoffeeFW\core\classes\Core\Controller\Complete.php(184): Core\View->setBaseDir('D:\Dropbox\Coff...')
+#1 D:\Dropbox\CoffeeFW\core\classes\Core\Request.php(159): Core\Controller\Complete->after(NULL, 'error404Action')
+#2 D:\Dropbox\CoffeeFW\app\public\index.php(40): Core\Request->dispatch(Object(Core\Route))
+#3 {main}
+---
+Severity: Error - IP: 127.0.0.1 @ Sunday, 16th of September 2012 08:27:35 PM -03:00
+File: D:\Dropbox\CoffeeFW\app\config\routes.php @ line 10
+Message: Class 'Core\Route' not found
+---

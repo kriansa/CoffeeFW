@@ -1,0 +1,4 @@
+Severity: Error - IP: 127.0.0.1 @ Saturday, 13th of October 2012 07:45:33 PM -03:00
+File: D:\Dropbox\CoffeeFW\app\config\routes.php @ line 12
+Message: Class 'Core\Route\RouteNamespace' not found
+---
